@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con estatutos de repetición
+# Ejercicios para practicar el estatuto de repetición while
 
 - 01 Cuenta Números
 - 02 Suma Números
